@@ -21,6 +21,7 @@ Final year Computer Science Engineering student specializing in AI at Indira Gan
 </div>
 
 Feel free to connect with me and explore my projects!
+<img src="https://komarev.com/ghpvc/?username=kanikakj&style=flat-square&color=blue" alt=""/>
 <!--
 **kanikakj/kanikakj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
