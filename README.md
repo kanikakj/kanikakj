@@ -1,6 +1,5 @@
 ### Hi there, I'm Kanika! 👋
 Final year Computer Science Engineering student specializing in AI at Indira Gandhi Delhi Technical University for Women.
-<img src="https://komarev.com/ghpvc/?username=kanikakj&style=flat-square&color=blue" alt=""/>
 
 🌱 Currently learning Data Structures and Algorithms, DevOps, Cloud.
 
