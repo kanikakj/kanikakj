@@ -1,18 +1,6 @@
 ### Hi there, I'm Kanika! 👋
 Final year Computer Science Engineering student specializing in AI at Indira Gandhi Delhi Technical University for Women.
 
-🌱 Currently honing my proficiency in Data Structures and Algorithms, engaging in software development, and tackling real-time challenges in the field of ML/AI.
-
-👨‍💻 All of my projects are available at [GitHub](https://github.com/kanikakj).
-
-💬 Ask me about C++, Python, Java, SpringBoot, AWS services, Machine Learning and Deep Learning.
-
-📫 Reach me at kanikakj.official@gmail.com.
-
-😄 Pronouns: She/her
- 
-⚡ Fun fact: I'm an enthusiastic software developer who loves learning new technologies while working on projects, always striving for excellence in my career!
-
 ## Connect with Me:
 
 <div id="badges">
